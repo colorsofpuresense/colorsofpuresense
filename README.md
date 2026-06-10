@@ -3,4 +3,4 @@
 </p>
 <p style="text-align: center;">◟ <a href="https://colorsofpuresense.atabook.org/">atabook</a> <a href="https://rentry.co/fescest">rentry</a>
 
-<p class="right-aligned-text">sharing Mafuyu yume that self inserts through Ena. 🤞</p>
+<p align="right">sharing Mafuyu yume that self inserts through Ena. 🤞</p>
